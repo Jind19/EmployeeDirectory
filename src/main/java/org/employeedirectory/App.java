@@ -1,4 +1,4 @@
-package org.supplychain;
+package org.employeedirectory;
 
 /**
  * Hello world!
