@@ -1,9 +1,8 @@
-package org.employeedirectory.datastructures;
+package org.employeedirectory;
 
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
-
 
 public class EmployeeDirectory {
     private HashMap<Integer, String> directory;
